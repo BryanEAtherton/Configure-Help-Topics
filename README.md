@@ -15,10 +15,10 @@
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r9i7b9a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. rao;naor;enfo;rfniow;fniwor;vneuipgnrj;egnjt;jsgfko;lmbiosr;hnaeiro;
+2. On the Add New Help Topic page we can set help topic names and other general information.
 </p>
 <br />
 

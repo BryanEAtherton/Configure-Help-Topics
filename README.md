@@ -23,10 +23,10 @@
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WcEvRrw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. rao;naor;enfo;rfniow;fniwor;vneuipgnrj;egnjt;jsgfko;lmbiosr;hnaeiro;
+3. Observe the Help Topics page with added Help Topics.
 </p>
 <br />
 
